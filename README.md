@@ -1,16 +1,32 @@
-# railse
+# Task Manager App
 
-A new Flutter project.
+## 📱 Download APK
 
-## Getting Started
+[👉 Download Latest APK](https://drive.google.com/file/d/1w7Z3ceiRKn0DOCahx4Lu0K7pAqiWC3x4/view?usp=sharing)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Tech Stack
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Flutter** (latest stable version)
+- **Dart**
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🏁 Getting Started
+
+### Prerequisites
+
+- Flutter SDK: [Install Flutter](https://flutter.dev/docs/get-started/install)
+- Android Studio or VSCode
+
+### Installation & Setup
+
+# Clone the repository
+git clone https://github.com/Bhargav090/Railse_Assessment.git
+
+# Navigate to project directory
+cd Railse_Assessment
+
+# Install Flutter dependencies
+flutter pub get
+
+# Run the app on connected device or emulator
+flutter run
