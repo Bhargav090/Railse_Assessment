@@ -2,7 +2,7 @@
 
 ## 📱 Download APK
 
-[👉 Download Latest APK](https://drive.google.com/file/d/1w7Z3ceiRKn0DOCahx4Lu0K7pAqiWC3x4/view?usp=sharing)
+[👉 Download Latest APK](https://drive.google.com/file/d/1JyucBonx15PAOWZGJFMPUjqlGEqT45vy/view?usp=sharing)
 
 
 ## 🛠️ Tech Stack
